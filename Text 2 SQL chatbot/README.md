@@ -41,3 +41,16 @@ Text-to-SQL bridges this gap:
 ├── schema.csv # Example schema for procurement dataset
 ├── data.csv # Example procurement dataset
 └── README.md # This file
+
+## ⚙️ Quick Start
+
+### **Option 1: Run in Google Colab (Recommended)**
+1. Open in Colab:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/text2sql-poc/blob/main/text2sql_chatbot.ipynb)
+2. Upload your CSV file.
+3. Ask your question in plain English.
+4. See generated SQL + results.
+
+🖼️ Example Queries
+What’s the total spend for Jan?
+Top 3 departments by spend
