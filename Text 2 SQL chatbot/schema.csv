@@ -1,0 +1,5 @@
+column_name,Description,data_type
+Department,Department of purchase,TEXT
+Supplier,Name of supplier from which we have purchased,TEXT
+Spend,Value of purchase in rupees,INTEGER
+Month,Month of purchase date,TEXT

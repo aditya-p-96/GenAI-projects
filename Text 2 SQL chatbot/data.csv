@@ -1,0 +1,17 @@
+Department,Supplier,Spend,Month
+IT,Infosys,50000,Jan
+IT,TCS,40000,Jan
+HR,ABC Ltd,10000,Jan
+Finance,XYZ Inc,20000,Jan
+IT,Infosys,60000,Feb
+HR,ABC Ltd,12000,Feb
+Finance,XYZ Inc,25000,Feb
+IT,Infosys,55000,Mar
+HR,TCS,30000,Mar
+Finance,XYZ Inc,28000,Mar
+IT,TCS,47000,Mar
+HR,ABC Ltd,15000,Mar
+Finance,XYZ Inc,23000,Apr
+IT,Infosys,62000,Apr
+HR,ABC Ltd,17000,Apr
+Finance,TCS,33000,Apr
