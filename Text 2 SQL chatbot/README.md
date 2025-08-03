@@ -37,7 +37,7 @@ Text-to-SQL bridges this gap:
 ---
 
 ## 📂 Project Structure
-├── text2sql_chatbot.ipynb # Google Colab notebook
-├── Sample_schema.csv # Example schema for procurement dataset
-├── sample_data.csv # Example procurement dataset
+├── t2s_chatbot.py # Google Colab notebook
+├── schema.csv # Example schema for procurement dataset
+├── data.csv # Example procurement dataset
 └── README.md # This file
